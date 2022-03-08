@@ -8,9 +8,9 @@
 - :atom_symbol: I’m currently learning C++ and starting learning in the Pentest area.
 
 ## Personal goals:
-- :hammer_and_wrench: Become a fullstack JavaScript developer;
-- :computer:Start learning about machine learning with python;
-- :man_student:Complete the computer science course;
+- :hammer_and_wrench: Act in the area of information security as pentest;
+- :computer: Start Learn more about malware, how it is made and how it works;
+- :man_student: Complete the computer science course;
 
 
 ## Goals for this year: 
