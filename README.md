@@ -2,10 +2,10 @@
 #  Hello World! I'm Rhian! 👋
 
 ## Who am i ?
-- :man_technologist: I'm beginner in computer science focused on learning front-end and back-end.
+- :man_technologist: I'm beginner in computer science focused on learning front-end.
 
 ## What am I working on now?
-- :atom_symbol: I’m currently learning C, JavaScript and  web technologies like HTML,CSS and NodeJs.
+- :atom_symbol: I’m currently learning C++ and starting learning in the Pentest area.
 
 ## Personal goals:
 - :hammer_and_wrench: Become a fullstack JavaScript developer;
