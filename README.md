@@ -2,7 +2,9 @@
    <h1 align = "center"> Olá, Mundo! Eu sou o Rhian! 👋 <h1/>
 </p>
   
-![gif-programming](https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif)
+<p align="center">
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="gif-programming"/>
+</p>
 
 ## Quem sou eu? 
 - 👨‍💻 Estudante de **Ciência da Computação** com interesse em **desenvolvimento de software**.
