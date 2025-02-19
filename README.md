@@ -1,18 +1,18 @@
 <p align="center">
-   <h1 align = "center"> Olá, Mundo! Eu sou o Rhian! 👋 <h1/>
+   <h1 align = "center"> Hello World! Eu sou o Rhian! 👋 <h1/>
 </p>
   
 <p align="center">
-    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="gif-programming"/>
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="gif-programming" width="600"/>
 </p>
+
 
 ## Quem sou eu? 
 - 👨‍💻 Estudante de **Ciência da Computação** com interesse em **desenvolvimento de software**.
 - 🔎 Buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.
 
 ## O que estou estudando atualmente?
-- 💻 Aprimorando conhecimentos em **C, C++, PHP e JavaScript**.
-- 🌎 Aprendendo mais sobre **desenvolvimento web** (HTML, CSS...).
+- 💻 Aprimorando meus conhecimentos em Inteligencia Artificial com Python.
 
 ## Metas Pessoais:
 - 🚀 Criar e compartilhar mais projetos próprios.
